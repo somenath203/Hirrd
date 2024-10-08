@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=kIlSobvizAM
 
 ## Technologies Used
 
-- **Next.js:** A powerful React framework used for building the frontend and backend of the application.
+- **React (via Vite)**: The frontend framework used to build the application.
 - **TailwindCSS:** A utility-first CSS framework that ensures the design is responsive, modern, and easy to customize.
 - **ShadCN UI:** A component library integrated to enhance the user interface with accessible and reusable components.
 - **Supabase:** A backend service for managing the database and handling application data like job posts and applicant information.
