@@ -1,5 +1,11 @@
 # Hirrd
 
+## Demo video of the overall project
+
+![Screenshot (726)](https://github.com/user-attachments/assets/154ed610-389d-4c89-beb2-1e9a3c9a99bf)
+
+https://www.youtube.com/watch?v=kIlSobvizAM
+
 ## Introduction
 
 **Hirrd** is a full-stack job portal designed to make job applications and recruitment easier for both applicants and recruiters. Job seekers can apply for jobs, track their application status, and view the history of all their applications. On the other hand, recruiters can create job posts, manage applicants, and track the hiring process with ease.
