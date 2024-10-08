@@ -16,7 +16,7 @@
 - **Create Job Postings:** Recruiters can add new job listings to attract potential candidates.
 - **Company Management:** Add new companies to the platform for job postings.
 - **View Applicants:** Check the details of every applicant who applied to a job posted by the recruiter.
-- **Update Application Status:** Update the status of a specific applicant’s job application to reflect their progress (e.g., `Rejected`, `Interviewing`, or `Hired`).
+- **Update Application Status:** Update the status of a specific applicant’s job application to reflect their progress i.e. `Rejected`, `Interviewing`, or `Hired`.
 - **Delete Job Posts:** Remove any job posts that are no longer relevant or active.
 - **Manage Job Listings:** View a detailed list of all the jobs created by the recruiter.
 
