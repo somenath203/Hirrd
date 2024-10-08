@@ -33,3 +33,9 @@ https://www.youtube.com/watch?v=kIlSobvizAM
 - **ShadCN UI:** A component library integrated to enhance the user interface with accessible and reusable components.
 - **Supabase:** A backend service for managing the database and handling application data like job posts and applicant information.
 - **Clerk Authentication:** A secure authentication solution that allows users (both applicants and recruiters) to sign in and manage their accounts.
+
+## Deployment
+
+The project **Hirrd** is deployed on Vercel.
+
+Here is the deployment link: https://hirrd-som.vercel.app/
