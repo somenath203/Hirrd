@@ -33,6 +33,8 @@ https://www.youtube.com/watch?v=kIlSobvizAM
 - **ShadCN UI:** A component library integrated to enhance the user interface with accessible and reusable components.
 - **Supabase:** A backend service for managing the database and handling application data like job posts and applicant information.
 - **Clerk Authentication:** A secure authentication solution that allows users (both applicants and recruiters) to sign in and manage their accounts.
+- **React-Hook-Form:** A lightweight library used to manage forms and handle form validation with ease.
+- **Zod:** A validation library used for ensuring data integrity by validating input forms before submission.
 
 ## Deployment
 
