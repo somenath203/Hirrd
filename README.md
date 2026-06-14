@@ -35,9 +35,3 @@ https://www.youtube.com/watch?v=kIlSobvizAM
 - **Clerk Authentication:** A secure authentication solution that allows users (both applicants and recruiters) to sign in and manage their accounts.
 - **React-Hook-Form:** A lightweight library used to manage forms and handle form validation with ease.
 - **Zod:** A validation library used for ensuring data integrity by validating input forms before submission.
-
-## Deployment
-
-The project **Hirrd** is deployed on Vercel.
-
-Here is the deployment link: https://hirrd-som.vercel.app/
